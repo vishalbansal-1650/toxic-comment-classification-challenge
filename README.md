@@ -1,2 +1,10 @@
 # toxic-comment-classification-challenge
-To build a multi-class model using Sklearn-pipelines that’s capable of detecting different types of toxicity 
+
+**Kaggle Challenge:** 
+https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+
+**Aim:**
+To build a multi-class model using Sklearn-pipeline that’s capable of detecting different types of toxicity 
+
+**Dataset:**
+https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
